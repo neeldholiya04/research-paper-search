@@ -12,8 +12,6 @@ This project is a full-stack web application that allows users to search for res
 6. [Installation](#installation)
 7. [Running the Application](#running-the-application)
 8. [API Documentation](#api-documentation)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Project Overview
 
@@ -52,7 +50,7 @@ research-paper-search/
 │   ├── server.js
 │   ├── package.json
 │   └── README.md
-└── README.md               # This file
+└── README.md               
 ```
 
 ## Prerequisites
