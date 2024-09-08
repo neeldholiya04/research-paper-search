@@ -1,4 +1,3 @@
-// client/src/components/PaperItem.js
 import React from 'react';
 
 function PaperItem({ paper, onSave, onRemove }) {

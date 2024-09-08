@@ -1,4 +1,3 @@
-// client/src/components/PaperList.js
 import React from 'react';
 import PaperItem from './PaperItem';
 

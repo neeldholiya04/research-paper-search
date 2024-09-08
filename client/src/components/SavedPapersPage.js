@@ -1,4 +1,3 @@
-// client/src/components/SavedPapersPage.js
 import React, { useState, useMemo } from 'react';
 import PaperList from './PaperList';
 

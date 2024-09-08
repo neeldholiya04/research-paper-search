@@ -1,4 +1,3 @@
-// client/src/components/Notification.js
 import React, { useEffect } from 'react';
 
 function Notification({ message, type, onClose }) {

@@ -1,4 +1,3 @@
-// client/src/App.js
 import React, { useState, useEffect } from 'react';
 import SearchPage from './components/SearchPage';
 import SavedPapersPage from './components/SavedPapersPage';

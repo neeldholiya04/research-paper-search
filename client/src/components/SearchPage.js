@@ -1,4 +1,3 @@
-// client/src/components/SearchPage.js
 import React, { useState, useEffect, useCallback } from 'react';
 import PaperList from './PaperList';
 
